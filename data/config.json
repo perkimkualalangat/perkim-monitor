@@ -1,0 +1,47 @@
+{
+  "site": {
+    "nama": "PERKIM Cawangan Kuala Langat",
+    "nama_pendek": "PERKIM Kuala Langat",
+    "url": "https://perkimkualalangat.github.io/Website-PERKIM/",
+    "repo": "perkimkualalangat/Website-PERKIM",
+    "branch": "main",
+    "fasa": "draf",
+    "bahasa": "ms"
+  },
+  "r2": {
+    "base": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev"
+  },
+  "halaman": [
+    { "path": "", "label": "Halaman Utama", "kategori": "Utama" },
+    { "path": "pages/tentang.html", "label": "Tentang Cawangan", "kategori": "Profil" },
+    { "path": "pages/latar-belakang.html", "label": "Latar Belakang PERKIM", "kategori": "Profil" },
+    { "path": "pages/kepimpinan.html", "label": "Kepimpinan", "kategori": "Profil" },
+    { "path": "pages/jaringan.html", "label": "Jaringan PERKIM", "kategori": "Profil" },
+    { "path": "pages/hubungi.html", "label": "Hubungi", "kategori": "Profil" },
+    { "path": "pages/berita.html", "label": "Berita Kebangsaan", "kategori": "Media" },
+    { "path": "pages/bahan-bacaan.html", "label": "Bahan Bacaan", "kategori": "Pendidikan" },
+    { "path": "pages/aktiviti.html", "label": "Aktiviti Cawangan", "kategori": "Aktiviti" }
+  ],
+  "lighthouse": {
+    "halaman": ["", "pages/aktiviti.html", "pages/bahan-bacaan.html"],
+    "kategori": ["performance", "accessibility", "best-practices", "seo"]
+  },
+  "ambang": {
+    "masa_ms": 2500,
+    "html_kb": 300,
+    "gambar_kb": 500
+  },
+  "audit": {
+    "timeout_ms": 15000,
+    "external_links": true,
+    "max_external_links": 60,
+    "max_internal_links": 80,
+    "concurrency": 6
+  },
+  "pautan": {
+    "github": "https://github.com/perkimkualalangat/perkim-monitor",
+    "actions": "https://github.com/perkimkualalangat/perkim-monitor/actions",
+    "pages": "https://perkimkualalangat.github.io/perkim-monitor/",
+    "website": "https://perkimkualalangat.github.io/Website-PERKIM/"
+  }
+}

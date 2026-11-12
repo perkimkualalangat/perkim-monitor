@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-11-12T04:59:25Z",
+  "files": [
+    {
+      "name": "site.json",
+      "label": "Maklumat Laman",
+      "source": "data/site.json",
+      "bytes": 2738,
+      "records": 6,
+      "record_label": "rekod",
+      "type": "object"
+    },
+    {
+      "name": "books.json",
+      "label": "Bahan Bacaan & PDF",
+      "source": "data/books.json",
+      "bytes": 5790,
+      "records": 14,
+      "record_label": "buku",
+      "type": "object"
+    },
+    {
+      "name": "aktiviti.json",
+      "label": "Program & Sorotan",
+      "source": "data/aktiviti.json",
+      "bytes": 9427,
+      "records": 2,
+      "record_label": "rekod",
+      "type": "array"
+    },
+    {
+      "name": "kepimpinan.json",
+      "label": "Kepimpinan",
+      "source": "data/kepimpinan.json",
+      "bytes": 1894,
+      "records": 9,
+      "record_label": "jawatan",
+      "type": "object"
+    },
+    {
+      "name": "berita.json",
+      "label": "Berita Kebangsaan",
+      "source": "data/berita.json",
+      "bytes": 4438,
+      "records": 17,
+      "record_label": "rekod",
+      "type": "array"
+    },
+    {
+      "name": "perkim-network.json",
+      "label": "Jaringan PERKIM",
+      "source": "data/perkim-network.json",
+      "bytes": 5252,
+      "records": 2,
+      "record_label": "rekod",
+      "type": "object"
+    },
+    {
+      "name": "search-index.json",
+      "label": "Indeks Carian",
+      "source": "data/search-index.json",
+      "bytes": 8047,
+      "records": 30,
+      "record_label": "rekod",
+      "type": "array"
+    },
+    {
+      "name": "perkim.json",
+      "label": "Profil PERKIM",
+      "source": "data/perkim.json",
+      "bytes": 4253,
+      "records": 13,
+      "record_label": "rekod",
+      "type": "object"
+    },
+    {
+      "name": "sitemap.json",
+      "label": "Sitemap",
+      "source": "data/sitemap.json",
+      "bytes": 1402,
+      "records": 6,
+      "record_label": "seksyen",
+      "type": "array"
+    },
+    {
+      "name": "motion.json",
+      "label": "Token Gerakan",
+      "source": "data/motion.json",
+      "bytes": 14866,
+      "records": 5,
+      "record_label": "rekod",
+      "type": "object"
+    },
+    {
+      "name": "perkim-ringkasan.json",
+      "label": "Ringkasan PERKIM",
+      "source": "data/perkim/ringkasan.json",
+      "bytes": 323,
+      "records": 9,
+      "record_label": "rekod",
+      "type": "object"
+    }
+  ]
+}

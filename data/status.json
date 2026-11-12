@@ -1,0 +1,2696 @@
+{
+  "generated_at": "2026-11-12T05:00:36Z",
+  "duration_ms": 73108,
+  "site": {
+    "name": "PERKIM Cawangan Kuala Langat",
+    "short_name": "PERKIM Kuala Langat",
+    "url": "https://perkimkualalangat.github.io/Website-PERKIM/",
+    "repo": "perkimkualalangat/Website-PERKIM",
+    "branch": "main",
+    "phase": "draf",
+    "r2": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev",
+    "sha": "bf990ff"
+  },
+  "summary": {
+    "score": 95,
+    "pass": 34,
+    "warn": 5,
+    "fail": 0,
+    "unknown": 2,
+    "checks": 41,
+    "pages": 9,
+    "programs": 2,
+    "books": 14,
+    "lighthouse": 3,
+    "categories": [
+      {
+        "id": "pautan",
+        "label": "Pautan & Aset",
+        "score": 100,
+        "weight": 0.18
+      },
+      {
+        "id": "data",
+        "label": "Data & Program",
+        "score": 100,
+        "weight": 0.14
+      },
+      {
+        "id": "r2",
+        "label": "PDF & R2",
+        "score": 100,
+        "weight": 0.08
+      },
+      {
+        "id": "seo",
+        "label": "SEO",
+        "score": 77,
+        "weight": 0.13
+      },
+      {
+        "id": "a11y",
+        "label": "Kebolehcapaian",
+        "score": 99,
+        "weight": 0.13
+      },
+      {
+        "id": "prestasi",
+        "label": "Prestasi",
+        "score": 87,
+        "weight": 0.13
+      },
+      {
+        "id": "deploy",
+        "label": "Deploy",
+        "score": 100,
+        "weight": 0.1
+      },
+      {
+        "id": "keselamatan",
+        "label": "Keselamatan",
+        "score": 100,
+        "weight": 0.06
+      },
+      {
+        "id": "teknikal",
+        "label": "Teknikal",
+        "score": 88,
+        "weight": 0.05
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "pautan",
+      "label": "Pautan & Aset",
+      "weight": 0.18,
+      "score": 100,
+      "checks": [
+        "static.links",
+        "static.css",
+        "live.internal_links",
+        "live.external_links"
+      ]
+    },
+    {
+      "id": "data",
+      "label": "Data & Program",
+      "weight": 0.14,
+      "score": 100,
+      "checks": [
+        "static.json",
+        "static.program",
+        "static.sorotan"
+      ]
+    },
+    {
+      "id": "r2",
+      "label": "PDF & R2",
+      "weight": 0.08,
+      "score": 100,
+      "checks": [
+        "r2.pdf",
+        "r2.cover"
+      ]
+    },
+    {
+      "id": "seo",
+      "label": "SEO",
+      "weight": 0.13,
+      "score": 77,
+      "checks": [
+        "static.title",
+        "static.description",
+        "static.robots",
+        "static.seo",
+        "live.titles",
+        "live.descriptions",
+        "live.seo"
+      ]
+    },
+    {
+      "id": "a11y",
+      "label": "Kebolehcapaian",
+      "weight": 0.13,
+      "score": 99,
+      "checks": [
+        "static.lang",
+        "static.alt",
+        "static.a11y",
+        "live.lang",
+        "live.alt",
+        "live.a11y"
+      ]
+    },
+    {
+      "id": "prestasi",
+      "label": "Prestasi",
+      "weight": 0.13,
+      "score": 87,
+      "checks": [
+        "static.large_images",
+        "live.response_time",
+        "live.html_size",
+        "lighthouse.performance",
+        "lighthouse.best_practices"
+      ]
+    },
+    {
+      "id": "deploy",
+      "label": "Deploy",
+      "weight": 0.1,
+      "score": 100,
+      "checks": [
+        "live.pages",
+        "deploy.commit",
+        "deploy.actions",
+        "deploy.pages",
+        "uptime.current"
+      ]
+    },
+    {
+      "id": "keselamatan",
+      "label": "Keselamatan",
+      "weight": 0.06,
+      "score": 100,
+      "checks": [
+        "static.sensitive"
+      ]
+    },
+    {
+      "id": "teknikal",
+      "label": "Teknikal",
+      "weight": 0.05,
+      "score": 88,
+      "checks": [
+        "static.html",
+        "static.viewport",
+        "static.temp_files"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "path": "",
+      "label": "Halaman Utama",
+      "kategori": "Utama",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/",
+      "status": 200,
+      "ok": true,
+      "ms": 210,
+      "bytes": 17282,
+      "title": "PERKIM Kuala Langat — laman draf",
+      "description": "Laman draf dalaman PERKIM Kuala Langat. Belum disahkan dan bukan laman rasmi.",
+      "lang": "ms",
+      "robots": "noindex, nofollow",
+      "noindex": true,
+      "h1": 1,
+      "viewport": true,
+      "skip_link": true,
+      "images": 7,
+      "missing_alt": 0,
+      "empty_alt": 0,
+      "internal_links": 12,
+      "external_links": 1,
+      "canonical": "",
+      "og_title": "",
+      "og_description": "",
+      "links": [
+        {
+          "href": "pages/kepimpinan.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/kepimpinan.html",
+          "text": "semak status"
+        },
+        {
+          "href": "program/volunteer-gathering-2026/laporan.md",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/program/volunteer-gathering-2026/laporan.md",
+          "text": "Baca laporan penuh"
+        },
+        {
+          "href": "pages/tentang.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/tentang.html",
+          "text": "Kenali cawangan"
+        },
+        {
+          "href": "pages/hubungi.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+          "text": "Hubungi pejabat"
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=PERKIM+Kuala+Langat+Lot+2029+Jalan+Haji+Darini+Banting",
+          "kind": "external",
+          "url": "https://www.google.com/maps/search/?api=1&query=PERKIM+Kuala+Langat+Lot+2029+Jalan+Haji+Darini+Banting",
+          "text": "Buka Google Maps"
+        },
+        {
+          "href": "pages/hubungi.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+          "text": "Semua saluran"
+        },
+        {
+          "href": "pages/jaringan.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/jaringan.html",
+          "text": "Buka halaman jaringan"
+        },
+        {
+          "href": "pages/hubungi.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+          "text": "Hubungi pejabat"
+        },
+        {
+          "href": "pages/kepimpinan.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/kepimpinan.html",
+          "text": "Semak senarai"
+        },
+        {
+          "href": "pages/tentang.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/tentang.html",
+          "text": "Lihat halaman"
+        },
+        {
+          "href": "pages/bahan-bacaan.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/bahan-bacaan.html",
+          "text": "Buka rak buku"
+        },
+        {
+          "href": "pages/kepimpinan.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/kepimpinan.html",
+          "text": "Status kepimpinan"
+        },
+        {
+          "href": "pages/hubungi.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+          "text": "Hubungi cawangan"
+        }
+      ],
+      "issues": [
+        {
+          "code": "canonical",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ],
+      "static": {
+        "bytes": 17282,
+        "h1": 1,
+        "images": 7,
+        "missing_alt": 0,
+        "empty_alt": 0,
+        "issues": [
+          {
+            "severity": "warn",
+            "mesej": "Tiada canonical"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:title"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:description"
+          }
+        ]
+      }
+    },
+    {
+      "path": "pages/tentang.html",
+      "label": "Tentang Cawangan",
+      "kategori": "Profil",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/tentang.html",
+      "status": 200,
+      "ok": true,
+      "ms": 44,
+      "bytes": 5400,
+      "title": "Tentang | PERKIM Kuala Langat (draf)",
+      "description": "Halaman draf profil cawangan. Teks rasmi belum diterima.",
+      "lang": "ms",
+      "robots": "noindex, nofollow",
+      "noindex": true,
+      "h1": 1,
+      "viewport": true,
+      "skip_link": true,
+      "images": 0,
+      "missing_alt": 0,
+      "empty_alt": 0,
+      "internal_links": 3,
+      "external_links": 3,
+      "canonical": "",
+      "og_title": "",
+      "og_description": "",
+      "links": [
+        {
+          "href": "../index.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+          "text": "Utama"
+        },
+        {
+          "href": "https://wa.me/60163536126",
+          "kind": "external",
+          "url": "https://wa.me/60163536126",
+          "text": "WhatsApp"
+        },
+        {
+          "href": "https://wa.me/60163536126",
+          "kind": "external",
+          "url": "https://wa.me/60163536126",
+          "text": "WhatsApp pejabat"
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=PERKIM+Kuala+Langat+Lot+2029+Jalan+Haji+Darini+Banting",
+          "kind": "external",
+          "url": "https://www.google.com/maps/search/?api=1&query=PERKIM+Kuala+Langat+Lot+2029+Jalan+Haji+Darini+Banting",
+          "text": "Lihat peta"
+        },
+        {
+          "href": "../pages/kepimpinan.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/kepimpinan.html",
+          "text": "Lihat kepimpinan"
+        },
+        {
+          "href": "../pages/hubungi.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+          "text": "Hubungi"
+        }
+      ],
+      "issues": [
+        {
+          "code": "canonical",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ],
+      "static": {
+        "bytes": 5400,
+        "h1": 1,
+        "images": 0,
+        "missing_alt": 0,
+        "empty_alt": 0,
+        "issues": [
+          {
+            "severity": "warn",
+            "mesej": "Tiada canonical"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:title"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:description"
+          }
+        ]
+      }
+    },
+    {
+      "path": "pages/latar-belakang.html",
+      "label": "Latar Belakang PERKIM",
+      "kategori": "Profil",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/latar-belakang.html",
+      "status": 200,
+      "ok": true,
+      "ms": 36,
+      "bytes": 6288,
+      "title": "PERKIM Kebangsaan | PERKIM Kuala Langat (draf)",
+      "description": "Latar belakang ringkas PERKIM Kebangsaan: sejarah, visi, misi, lima teras dan struktur organisasi.",
+      "lang": "ms",
+      "robots": "noindex, nofollow",
+      "noindex": true,
+      "h1": 1,
+      "viewport": true,
+      "skip_link": true,
+      "images": 0,
+      "missing_alt": 0,
+      "empty_alt": 0,
+      "internal_links": 2,
+      "external_links": 2,
+      "canonical": "",
+      "og_title": "",
+      "og_description": "",
+      "links": [
+        {
+          "href": "../index.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+          "text": "Utama"
+        },
+        {
+          "href": "https://eng.perkim.net.my/latar-belakang/",
+          "kind": "external",
+          "url": "https://eng.perkim.net.my/latar-belakang/",
+          "text": "Baca halaman asal (English) ↗"
+        },
+        {
+          "href": "https://perkim.net.my",
+          "kind": "external",
+          "url": "https://perkim.net.my/",
+          "text": "Versi Bahasa Melayu ↗"
+        },
+        {
+          "href": "../pages/hubungi.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+          "text": "Hubungi"
+        }
+      ],
+      "issues": [
+        {
+          "code": "canonical",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ],
+      "static": {
+        "bytes": 6288,
+        "h1": 1,
+        "images": 0,
+        "missing_alt": 0,
+        "empty_alt": 0,
+        "issues": [
+          {
+            "severity": "warn",
+            "mesej": "Tiada canonical"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:title"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:description"
+          }
+        ]
+      }
+    },
+    {
+      "path": "pages/kepimpinan.html",
+      "label": "Kepimpinan",
+      "kategori": "Profil",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/kepimpinan.html",
+      "status": 200,
+      "ok": true,
+      "ms": 65,
+      "bytes": 3748,
+      "title": "Kepimpinan 2026–2028 | PERKIM Kuala Langat (draf)",
+      "description": "Struktur jawatan draf sesi 2026–2028 dengan status pengesahan setiap baris.",
+      "lang": "ms",
+      "robots": "noindex, nofollow",
+      "noindex": true,
+      "h1": 1,
+      "viewport": true,
+      "skip_link": true,
+      "images": 0,
+      "missing_alt": 0,
+      "empty_alt": 0,
+      "internal_links": 3,
+      "external_links": 0,
+      "canonical": "",
+      "og_title": "",
+      "og_description": "",
+      "links": [
+        {
+          "href": "../index.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+          "text": "Utama"
+        },
+        {
+          "href": "../pages/hubungi.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+          "text": "Hubungi Setiausaha"
+        },
+        {
+          "href": "../pages/tentang.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/tentang.html",
+          "text": "Tentang cawangan"
+        }
+      ],
+      "issues": [
+        {
+          "code": "canonical",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ],
+      "static": {
+        "bytes": 3748,
+        "h1": 1,
+        "images": 0,
+        "missing_alt": 0,
+        "empty_alt": 0,
+        "issues": [
+          {
+            "severity": "warn",
+            "mesej": "Tiada canonical"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:title"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:description"
+          }
+        ]
+      }
+    },
+    {
+      "path": "pages/jaringan.html",
+      "label": "Jaringan PERKIM",
+      "kategori": "Profil",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/jaringan.html",
+      "status": 200,
+      "ok": true,
+      "ms": 27,
+      "bytes": 3679,
+      "title": "Jaringan PERKIM | PERKIM Kuala Langat (draf)",
+      "description": "Peta dunia ASCII jaringan PERKIM: cawangan negeri, cawangan daerah dan rakan antarabangsa.",
+      "lang": "ms",
+      "robots": "noindex, nofollow",
+      "noindex": true,
+      "h1": 1,
+      "viewport": true,
+      "skip_link": true,
+      "images": 0,
+      "missing_alt": 0,
+      "empty_alt": 0,
+      "internal_links": 3,
+      "external_links": 0,
+      "canonical": "",
+      "og_title": "",
+      "og_description": "",
+      "links": [
+        {
+          "href": "../index.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+          "text": "Utama"
+        },
+        {
+          "href": "hubungi.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+          "text": "Hubungi pejabat"
+        },
+        {
+          "href": "../index.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+          "text": "Kembali ke utama"
+        }
+      ],
+      "issues": [
+        {
+          "code": "canonical",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ],
+      "static": {
+        "bytes": 3679,
+        "h1": 1,
+        "images": 0,
+        "missing_alt": 0,
+        "empty_alt": 0,
+        "issues": [
+          {
+            "severity": "warn",
+            "mesej": "Tiada canonical"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:title"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:description"
+          }
+        ]
+      }
+    },
+    {
+      "path": "pages/hubungi.html",
+      "label": "Hubungi",
+      "kategori": "Profil",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+      "status": 200,
+      "ok": true,
+      "ms": 61,
+      "bytes": 7466,
+      "title": "Hubungi | PERKIM Kuala Langat (draf)",
+      "description": "Alamat dan saluran hubungan cawangan. Sebahagian maklumat belum disahkan.",
+      "lang": "ms",
+      "robots": "noindex, nofollow",
+      "noindex": true,
+      "h1": 1,
+      "viewport": true,
+      "skip_link": true,
+      "images": 0,
+      "missing_alt": 0,
+      "empty_alt": 0,
+      "internal_links": 1,
+      "external_links": 9,
+      "canonical": "",
+      "og_title": "",
+      "og_description": "",
+      "links": [
+        {
+          "href": "../index.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+          "text": "Utama"
+        },
+        {
+          "href": "https://wa.me/60163536126",
+          "kind": "external",
+          "url": "https://wa.me/60163536126",
+          "text": "WhatsApp"
+        },
+        {
+          "href": "https://wa.me/60163536126",
+          "kind": "external",
+          "url": "https://wa.me/60163536126",
+          "text": "WhatsApp pejabat"
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=PERKIM+Kuala+Langat+Lot+2029+Jalan+Haji+Darini+Banting",
+          "kind": "external",
+          "url": "https://www.google.com/maps/search/?api=1&query=PERKIM+Kuala+Langat+Lot+2029+Jalan+Haji+Darini+Banting",
+          "text": "Lihat peta"
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=PERKIM+Kuala+Langat+Lot+2029+Jalan+Haji+Darini+Banting",
+          "kind": "external",
+          "url": "https://www.google.com/maps/search/?api=1&query=PERKIM+Kuala+Langat+Lot+2029+Jalan+Haji+Darini+Banting",
+          "text": "Buka Google Maps"
+        },
+        {
+          "href": "https://www.facebook.com/share/16Yvm8zzpv/?mibextid=wwXIfr",
+          "kind": "external",
+          "url": "https://www.facebook.com/share/16Yvm8zzpv/?mibextid=wwXIfr",
+          "text": "Facebook — PERKIM Kuala Langat"
+        },
+        {
+          "href": "https://www.instagram.com/perkimkualalangat",
+          "kind": "external",
+          "url": "https://www.instagram.com/perkimkualalangat",
+          "text": "Instagram — @perkimkualalangat"
+        },
+        {
+          "href": "https://youtube.com/@perkimkualalangat",
+          "kind": "external",
+          "url": "https://youtube.com/@perkimkualalangat",
+          "text": "YouTube — @perkimkualalangat"
+        },
+        {
+          "href": "https://www.tiktok.com/@perkimkebangsaanofficial",
+          "kind": "external",
+          "url": "https://www.tiktok.com/@perkimkebangsaanofficial",
+          "text": "TikTok — PERKIM Kebangsaan"
+        },
+        {
+          "href": "https://linktr.ee/PERKIMKualaLangat",
+          "kind": "external",
+          "url": "https://linktr.ee/PERKIMKualaLangat",
+          "text": "Linktree — semua pautan"
+        }
+      ],
+      "issues": [
+        {
+          "code": "canonical",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ],
+      "static": {
+        "bytes": 7466,
+        "h1": 1,
+        "images": 0,
+        "missing_alt": 0,
+        "empty_alt": 0,
+        "issues": [
+          {
+            "severity": "warn",
+            "mesej": "Tiada canonical"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:title"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:description"
+          }
+        ]
+      }
+    },
+    {
+      "path": "pages/berita.html",
+      "label": "Berita Kebangsaan",
+      "kategori": "Media",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/berita.html",
+      "status": 200,
+      "ok": true,
+      "ms": 34,
+      "bytes": 2691,
+      "title": "Berita | PERKIM Kuala Langat (draf)",
+      "description": "Indeks tajuk berita PERKIM Kebangsaan dengan pautan ke laman rasmi.",
+      "lang": "ms",
+      "robots": "noindex, nofollow",
+      "noindex": true,
+      "h1": 1,
+      "viewport": true,
+      "skip_link": true,
+      "images": 0,
+      "missing_alt": 0,
+      "empty_alt": 0,
+      "internal_links": 2,
+      "external_links": 1,
+      "canonical": "",
+      "og_title": "",
+      "og_description": "",
+      "links": [
+        {
+          "href": "../index.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+          "text": "Utama"
+        },
+        {
+          "href": "aktiviti.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/aktiviti.html",
+          "text": "Aktiviti Cawangan"
+        },
+        {
+          "href": "https://eng.perkim.net.my/",
+          "kind": "external",
+          "url": "https://eng.perkim.net.my/",
+          "text": "eng.perkim.net.my"
+        }
+      ],
+      "issues": [
+        {
+          "code": "canonical",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ],
+      "static": {
+        "bytes": 2691,
+        "h1": 1,
+        "images": 0,
+        "missing_alt": 0,
+        "empty_alt": 0,
+        "issues": [
+          {
+            "severity": "warn",
+            "mesej": "Tiada canonical"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:title"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:description"
+          }
+        ]
+      }
+    },
+    {
+      "path": "pages/bahan-bacaan.html",
+      "label": "Bahan Bacaan",
+      "kategori": "Pendidikan",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/bahan-bacaan.html",
+      "status": 200,
+      "ok": true,
+      "ms": 34,
+      "bytes": 2616,
+      "title": "Bahan Bacaan | PERKIM Kuala Langat (draf)",
+      "description": "Buku Teks Kelas Pengajian Islam PERKIM Kebangsaan — 14 buku dalam lima peringkat, boleh dibaca terus di laman.",
+      "lang": "ms",
+      "robots": "noindex, nofollow",
+      "noindex": true,
+      "h1": 1,
+      "viewport": true,
+      "skip_link": true,
+      "images": 0,
+      "missing_alt": 0,
+      "empty_alt": 0,
+      "internal_links": 1,
+      "external_links": 1,
+      "canonical": "",
+      "og_title": "",
+      "og_description": "",
+      "links": [
+        {
+          "href": "../index.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+          "text": "Utama"
+        },
+        {
+          "href": "https://github.com/wisam87/flippy-pdf",
+          "kind": "external",
+          "url": "https://github.com/wisam87/flippy-pdf",
+          "text": "flippy-pdf"
+        }
+      ],
+      "issues": [
+        {
+          "code": "canonical",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ],
+      "static": {
+        "bytes": 2616,
+        "h1": 1,
+        "images": 0,
+        "missing_alt": 0,
+        "empty_alt": 0,
+        "issues": [
+          {
+            "severity": "warn",
+            "mesej": "Tiada canonical"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:title"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:description"
+          }
+        ]
+      }
+    },
+    {
+      "path": "pages/aktiviti.html",
+      "label": "Aktiviti Cawangan",
+      "kategori": "Aktiviti",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/aktiviti.html",
+      "status": 200,
+      "ok": true,
+      "ms": 33,
+      "bytes": 3154,
+      "title": "Aktiviti Cawangan | PERKIM Kuala Langat (draf)",
+      "description": "Laporan ringkas program dan aktiviti PERKIM Cawangan Kuala Langat dengan pautan ke post Facebook asal.",
+      "lang": "ms",
+      "robots": "noindex, nofollow",
+      "noindex": true,
+      "h1": 1,
+      "viewport": true,
+      "skip_link": true,
+      "images": 0,
+      "missing_alt": 0,
+      "empty_alt": 0,
+      "internal_links": 1,
+      "external_links": 0,
+      "canonical": "",
+      "og_title": "",
+      "og_description": "",
+      "links": [
+        {
+          "href": "../index.html",
+          "kind": "internal",
+          "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+          "text": "Utama"
+        }
+      ],
+      "issues": [
+        {
+          "code": "canonical",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "og",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "code": "static",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ],
+      "static": {
+        "bytes": 3154,
+        "h1": 1,
+        "images": 0,
+        "missing_alt": 0,
+        "empty_alt": 0,
+        "issues": [
+          {
+            "severity": "warn",
+            "mesej": "Tiada canonical"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:title"
+          },
+          {
+            "severity": "warn",
+            "mesej": "Tiada og:description"
+          }
+        ]
+      }
+    }
+  ],
+  "programs": {
+    "total": 2,
+    "sorotan": 2,
+    "draf": 2,
+    "gambar": 12,
+    "alt_missing": 0,
+    "items": [
+      {
+        "id": "volunteer-gathering-2026",
+        "slug": "volunteer-gathering-2026",
+        "tajuk": "Volunteer Gathering 1.0 2026 — Edisi Srikandi (Muslimah)",
+        "tarikh": "2026-10-31",
+        "kategori": "Kesukarelawanan",
+        "status": "draf",
+        "sorotan": 1,
+        "gambar": 6,
+        "alt_missing": 0,
+        "missing_files": 0,
+        "issues": [],
+        "images": [
+          {
+            "src": "program/volunteer-gathering-2026/img-4801-front.JPG",
+            "alt": "Poster rasmi Volunteer Gathering 1.0 2026 Edisi Srikandi dengan gambar kumpulan peserta dan AJK serta butiran program.",
+            "kapsyen": "Poster rasmi program.",
+            "exists": true
+          },
+          {
+            "src": "program/volunteer-gathering-2026/img_4802.JPG",
+            "alt": "Suasana sesi suai kenal dan perkongsian peserta di pejabat PERKIM Kuala Langat.",
+            "kapsyen": "Sesi suai kenal peserta.",
+            "exists": true
+          },
+          {
+            "src": "program/volunteer-gathering-2026/img_4803.JPG",
+            "alt": "Ucapan wakil PERKIM bersama peserta dalam suasana santai dengan juadah potluck di atas meja.",
+            "kapsyen": "Ucapan aluan dan juadah potluck.",
+            "exists": true
+          },
+          {
+            "src": "program/volunteer-gathering-2026/img_4804.JPG",
+            "alt": "Sesi pembentangan dan tayangan slaid di hadapan komputer riba bersama peserta.",
+            "kapsyen": "Perkongsian maklumat program.",
+            "exists": true
+          },
+          {
+            "src": "program/volunteer-gathering-2026/img_4805.JPG",
+            "alt": "Sesi soal jawab dan kuiz interaktif bersama peserta program.",
+            "kapsyen": "Kuiz dan soal jawab.",
+            "exists": true
+          },
+          {
+            "src": "program/volunteer-gathering-2026/img_4806.JPG",
+            "alt": "Suasana meja mesyuarat dan gambar kenangan peserta bersama AJK serta hadiah program.",
+            "kapsyen": "Gambar kenangan dan hadiah.",
+            "exists": true
+          }
+        ]
+      },
+      {
+        "id": "perkim-townhall-cawangan-zon-5-negeri-selangor-2026",
+        "slug": "perkim-townhall-cawangan-zon-5-negeri-selangor-2026",
+        "tajuk": "Delegasi PERKIM Kuala Langat ke Townhall PERKIM Cawangan Zon 5 Negeri Selangor 2026",
+        "tarikh": "2026-10-25",
+        "kategori": "Kepimpinan",
+        "status": "draf",
+        "sorotan": 2,
+        "gambar": 6,
+        "alt_missing": 0,
+        "missing_files": 0,
+        "issues": [],
+        "images": [
+          {
+            "src": "program/perkim-townhall-cawangan-zon-5-negeri-selangor-2026/img_4858.JPG",
+            "alt": "Poster Delegasi PERKIM Kuala Langat menyertai Townhall PERKIM Cawangan Zon 5 Negeri Selangor 2026 dengan gambar kumpulan delegasi di Royal Park Hotel.",
+            "kapsyen": "Poster rasmi penyertaan delegasi.",
+            "exists": true
+          },
+          {
+            "src": "program/perkim-townhall-cawangan-zon-5-negeri-selangor-2026/img_4859.JPG",
+            "alt": "Gambar kumpulan delegasi PERKIM Kuala Langat bersama peserta lain dan suasana ucapan di podium Royal Park Hotel.",
+            "kapsyen": "Delegasi dan suasana ucapan.",
+            "exists": true
+          },
+          {
+            "src": "program/perkim-townhall-cawangan-zon-5-negeri-selangor-2026/img_4860.JPG",
+            "alt": "Delegasi PERKIM Kuala Langat bergambar di hadapan Royal Park Hotel serta paparan slaid Townhall Zon 5.",
+            "kapsyen": "Gambar kenangan di Royal Park Hotel.",
+            "exists": true
+          },
+          {
+            "src": "program/perkim-townhall-cawangan-zon-5-negeri-selangor-2026/img_4861.JPG",
+            "alt": "Penceramah menyampaikan sesi perkongsian di hadapan peserta Townhall Zon 5.",
+            "kapsyen": "Sesi perkongsian dan pembentangan.",
+            "exists": true
+          },
+          {
+            "src": "program/perkim-townhall-cawangan-zon-5-negeri-selangor-2026/img_4862.JPG",
+            "alt": "Peserta delegasi lelaki dan wanita mengikuti perbincangan di meja masing-masing.",
+            "kapsyen": "Peserta mengikuti sesi perbincangan.",
+            "exists": true
+          },
+          {
+            "src": "program/perkim-townhall-cawangan-zon-5-negeri-selangor-2026/img_4863.JPG",
+            "alt": "Peserta townhall bergambar dalam suasana mesra selepas sesi perbincangan.",
+            "kapsyen": "Suasana mesra peserta program.",
+            "exists": true
+          }
+        ]
+      }
+    ]
+  },
+  "books": [
+    {
+      "id": "fardu-ain",
+      "tajuk": "Bimbingan Asas Fardhu ‘Ain",
+      "keterangan": "86 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/fardu-ain.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/fardu-ain.pdf",
+      "kumpulan": "Bimbingan Asas Fardhu ‘Ain",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 4009874,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 424,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 78507,
+      "cover_type": "image/jpeg",
+      "cover_ms": 240,
+      "issues": []
+    },
+    {
+      "id": "pra-asas",
+      "tajuk": "Pengajian Islam — Tahap Pra Asas",
+      "keterangan": "46 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/pra-asas.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/pra-asas.pdf",
+      "kumpulan": "Kelas Pra Asas",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 755911,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 343,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 32793,
+      "cover_type": "image/jpeg",
+      "cover_ms": 261,
+      "issues": []
+    },
+    {
+      "id": "asas-akhlak",
+      "tajuk": "Akhlak — Tahap Asas",
+      "keterangan": "66 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/asas-akhlak.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/asas-akhlak.pdf",
+      "kumpulan": "Kelas Asas",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 895765,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 332,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 28237,
+      "cover_type": "image/jpeg",
+      "cover_ms": 241,
+      "issues": []
+    },
+    {
+      "id": "asas-akidah",
+      "tajuk": "Akidah — Tahap Asas",
+      "keterangan": "92 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/asas-akidah.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/asas-akidah.pdf",
+      "kumpulan": "Kelas Asas",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 1482238,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 301,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 30520,
+      "cover_type": "image/jpeg",
+      "cover_ms": 292,
+      "issues": []
+    },
+    {
+      "id": "asas-fekah",
+      "tajuk": "Fekah — Tahap Asas",
+      "keterangan": "456 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/asas-fekah.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/asas-fekah.pdf",
+      "kumpulan": "Kelas Asas",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 5772106,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 238,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 27939,
+      "cover_type": "image/jpeg",
+      "cover_ms": 272,
+      "issues": []
+    },
+    {
+      "id": "asas-sirah",
+      "tajuk": "Sirah — Tahap Asas",
+      "keterangan": "44 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/asas-sirah.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/asas-sirah.pdf",
+      "kumpulan": "Kelas Asas",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 817864,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 238,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 27274,
+      "cover_type": "image/jpeg",
+      "cover_ms": 269,
+      "issues": []
+    },
+    {
+      "id": "pertengahan-akhlak",
+      "tajuk": "Akhlak — Tahap Pertengahan",
+      "keterangan": "149 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/pertengahan-akhlak.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/pertengahan-akhlak.pdf",
+      "kumpulan": "Kelas Pertengahan",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 1803677,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 271,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 34888,
+      "cover_type": "image/jpeg",
+      "cover_ms": 285,
+      "issues": []
+    },
+    {
+      "id": "pertengahan-akidah",
+      "tajuk": "Akidah — Tahap Pertengahan",
+      "keterangan": "74 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/pertengahan-akidah.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/pertengahan-akidah.pdf",
+      "kumpulan": "Kelas Pertengahan",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 1203097,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 240,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 33523,
+      "cover_type": "image/jpeg",
+      "cover_ms": 264,
+      "issues": []
+    },
+    {
+      "id": "pertengahan-fekah",
+      "tajuk": "Fekah — Tahap Pertengahan",
+      "keterangan": "266 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/pertengahan-fekah.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/pertengahan-fekah.pdf",
+      "kumpulan": "Kelas Pertengahan",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 1507602,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 270,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 35189,
+      "cover_type": "image/jpeg",
+      "cover_ms": 440,
+      "issues": []
+    },
+    {
+      "id": "pertengahan-sirah",
+      "tajuk": "Sirah — Tahap Pertengahan",
+      "keterangan": "59 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/pertengahan-sirah.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/pertengahan-sirah.pdf",
+      "kumpulan": "Kelas Pertengahan",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 840273,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 279,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 35008,
+      "cover_type": "image/jpeg",
+      "cover_ms": 222,
+      "issues": []
+    },
+    {
+      "id": "lanjutan-akhlak",
+      "tajuk": "Akhlak — Tahap Lanjutan",
+      "keterangan": "109 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/lanjutan-akhlak.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/lanjutan-akhlak.pdf",
+      "kumpulan": "Kelas Lanjutan",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 1233535,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 339,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 33023,
+      "cover_type": "image/jpeg",
+      "cover_ms": 245,
+      "issues": []
+    },
+    {
+      "id": "lanjutan-akidah",
+      "tajuk": "Akidah — Tahap Lanjutan",
+      "keterangan": "131 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/lanjutan-akidah.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/lanjutan-akidah.pdf",
+      "kumpulan": "Kelas Lanjutan",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 1082253,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 238,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 32280,
+      "cover_type": "image/jpeg",
+      "cover_ms": 227,
+      "issues": []
+    },
+    {
+      "id": "lanjutan-fekah",
+      "tajuk": "Fekah — Tahap Lanjutan",
+      "keterangan": "114 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/lanjutan-fekah.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/lanjutan-fekah.pdf",
+      "kumpulan": "Kelas Lanjutan",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 890881,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 247,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 30975,
+      "cover_type": "image/jpeg",
+      "cover_ms": 267,
+      "issues": []
+    },
+    {
+      "id": "lanjutan-sirah",
+      "tajuk": "Sirah — Tahap Lanjutan",
+      "keterangan": "156 halaman · Edisi Pertama",
+      "cover": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/covers/lanjutan-sirah.jpg",
+      "pdf": "https://pub-1099249777ba499e8b9866ab815abb14.r2.dev/lanjutan-sirah.pdf",
+      "kumpulan": "Kelas Lanjutan",
+      "pdf_status": 200,
+      "pdf_ok": true,
+      "pdf_level": "pass",
+      "pdf_bytes": 1229659,
+      "pdf_type": "application/pdf",
+      "pdf_ms": 353,
+      "cover_status": 200,
+      "cover_ok": true,
+      "cover_level": "pass",
+      "cover_bytes": 32161,
+      "cover_type": "image/jpeg",
+      "cover_ms": 490,
+      "issues": []
+    }
+  ],
+  "links": [
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/kepimpinan.html",
+      "type": "internal",
+      "sources": [
+        "index.html",
+        "pages/tentang.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 77,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/program/volunteer-gathering-2026/laporan.md",
+      "type": "internal",
+      "sources": [
+        "index.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 159,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/tentang.html",
+      "type": "internal",
+      "sources": [
+        "index.html",
+        "pages/kepimpinan.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 157,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
+      "type": "internal",
+      "sources": [
+        "index.html",
+        "pages/tentang.html",
+        "pages/latar-belakang.html",
+        "pages/kepimpinan.html",
+        "pages/jaringan.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 155,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/jaringan.html",
+      "type": "internal",
+      "sources": [
+        "index.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 146,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/bahan-bacaan.html",
+      "type": "internal",
+      "sources": [
+        "index.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 151,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/index.html",
+      "type": "internal",
+      "sources": [
+        "pages/tentang.html",
+        "pages/latar-belakang.html",
+        "pages/kepimpinan.html",
+        "pages/jaringan.html",
+        "pages/hubungi.html",
+        "pages/berita.html",
+        "pages/bahan-bacaan.html",
+        "pages/aktiviti.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 118,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/aktiviti.html",
+      "type": "internal",
+      "sources": [
+        "pages/berita.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 117,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=PERKIM+Kuala+Langat+Lot+2029+Jalan+Haji+Darini+Banting",
+      "type": "external",
+      "sources": [
+        "index.html",
+        "pages/tentang.html",
+        "pages/hubungi.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 180,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://wa.me/60163536126",
+      "type": "external",
+      "sources": [
+        "pages/tentang.html",
+        "pages/hubungi.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 755,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://eng.perkim.net.my/latar-belakang/",
+      "type": "external",
+      "sources": [
+        "pages/latar-belakang.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 698,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://perkim.net.my/",
+      "type": "external",
+      "sources": [
+        "pages/latar-belakang.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 2572,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://www.facebook.com/share/16Yvm8zzpv/?mibextid=wwXIfr",
+      "type": "external",
+      "sources": [
+        "pages/hubungi.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 1061,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://www.instagram.com/perkimkualalangat",
+      "type": "external",
+      "sources": [
+        "pages/hubungi.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 439,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://youtube.com/@perkimkualalangat",
+      "type": "external",
+      "sources": [
+        "pages/hubungi.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 421,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://www.tiktok.com/@perkimkebangsaanofficial",
+      "type": "external",
+      "sources": [
+        "pages/hubungi.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 205,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://linktr.ee/PERKIMKualaLangat",
+      "type": "external",
+      "sources": [
+        "pages/hubungi.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 222,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://eng.perkim.net.my/",
+      "type": "external",
+      "sources": [
+        "pages/berita.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 468,
+      "method": "HEAD",
+      "error": null
+    },
+    {
+      "url": "https://github.com/wisam87/flippy-pdf",
+      "type": "external",
+      "sources": [
+        "pages/bahan-bacaan.html"
+      ],
+      "status": 200,
+      "ok": true,
+      "level": "pass",
+      "ms": 777,
+      "method": "HEAD",
+      "error": null
+    }
+  ],
+  "lighthouse": [
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/",
+      "label": "Halaman Utama",
+      "ok": true,
+      "scores": {
+        "performance": 56,
+        "accessibility": 97,
+        "best-practices": 100,
+        "seo": 63
+      },
+      "metrics": {
+        "fcp": 1730.6599999999999,
+        "lcp": 3716.66,
+        "cls": 0.2535668552003818,
+        "tbt": 823,
+        "si": 2791.764318082117
+      },
+      "warnings": [],
+      "fetch_time": "2026-11-12T04:59:38.490Z"
+    },
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/aktiviti.html",
+      "label": "Aktiviti Cawangan",
+      "ok": true,
+      "scores": {
+        "performance": 82,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 63
+      },
+      "metrics": {
+        "fcp": 1224.7756,
+        "lcp": 1244.2756,
+        "cls": 0,
+        "tbt": 720,
+        "si": 1572.576603823074
+      },
+      "warnings": [],
+      "fetch_time": "2026-11-12T05:00:02.741Z"
+    },
+    {
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/bahan-bacaan.html",
+      "label": "Bahan Bacaan",
+      "ok": true,
+      "scores": {
+        "performance": 86,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 63
+      },
+      "metrics": {
+        "fcp": 1182.5343,
+        "lcp": 1241.0343,
+        "cls": 0,
+        "tbt": 544,
+        "si": 1447.7653636981008
+      },
+      "warnings": [],
+      "fetch_time": "2026-11-12T05:00:18.778Z"
+    }
+  ],
+  "deploy": {
+    "sha": "bf990ff",
+    "sha_full": "bf990ff5e669fa1c210135e7ed09ba0b9f45fd03",
+    "commit_date": "2026-11-12T03:19:12Z",
+    "commit_message": "Tambah banner AJK PERKIM di halaman utama",
+    "commit_author": "state-of-protocol",
+    "actions": {
+      "name": "pages build and deployment",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/perkimkualalangat/Website-PERKIM/actions/runs/43147584806",
+      "updated_at": "2026-11-12T03:21:15Z",
+      "sha": "bf990ff"
+    },
+    "runs": [
+      {
+        "name": "pages build and deployment",
+        "status": "completed",
+        "conclusion": "success",
+        "url": "https://github.com/perkimkualalangat/Website-PERKIM/actions/runs/43147584806",
+        "updated_at": "2026-11-12T03:21:15Z",
+        "sha": "bf990ff"
+      },
+      {
+        "name": "pages build and deployment",
+        "status": "completed",
+        "conclusion": "success",
+        "url": "https://github.com/perkimkualalangat/Website-PERKIM/actions/runs/43132531415",
+        "updated_at": "2026-11-12T01:10:07Z",
+        "sha": "577dba5"
+      },
+      {
+        "name": "pages build and deployment",
+        "status": "completed",
+        "conclusion": "success",
+        "url": "https://github.com/perkimkualalangat/Website-PERKIM/actions/runs/43131276706",
+        "updated_at": "2026-11-12T00:59:45Z",
+        "sha": "88b162a"
+      },
+      {
+        "name": "pages build and deployment",
+        "status": "completed",
+        "conclusion": "success",
+        "url": "https://github.com/perkimkualalangat/Website-PERKIM/actions/runs/43129769080",
+        "updated_at": "2026-11-12T00:47:10Z",
+        "sha": "9592069"
+      },
+      {
+        "name": "pages build and deployment",
+        "status": "completed",
+        "conclusion": "success",
+        "url": "https://github.com/perkimkualalangat/Website-PERKIM/actions/runs/41791068598",
+        "updated_at": "2026-11-04T07:17:29Z",
+        "sha": "71753bb"
+      }
+    ],
+    "pages": {
+      "status": "unknown",
+      "url": "https://perkimkualalangat.github.io/Website-PERKIM/",
+      "build_type": null,
+      "error": "Not Found",
+      "updated_at": null
+    },
+    "error": "Not Found",
+    "checked_at": "2026-11-12T04:59:32Z"
+  },
+  "uptime": {
+    "generated_at": "2026-11-12T05:00:36Z",
+    "current": {
+      "at": "2026-11-12T05:00:36Z",
+      "status": 200,
+      "ms": 210,
+      "ok": true
+    },
+    "history": [
+      {
+        "at": "2026-11-12T04:33:08Z",
+        "status": 200,
+        "ms": 534,
+        "ok": true
+      },
+      {
+        "at": "2026-11-12T04:33:40Z",
+        "status": 200,
+        "ms": 225,
+        "ok": true
+      },
+      {
+        "at": "2026-11-12T04:56:28Z",
+        "status": 200,
+        "ms": 503,
+        "ok": true
+      },
+      {
+        "at": "2026-11-12T04:57:58Z",
+        "status": 200,
+        "ms": 260,
+        "ok": true
+      },
+      {
+        "at": "2026-11-12T05:00:36Z",
+        "status": 200,
+        "ms": 210,
+        "ok": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "id": "static.html",
+      "label": "Struktur HTML seimbang",
+      "status": "pass",
+      "category": "teknikal",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "static.lang",
+      "label": "Atribut bahasa ms",
+      "status": "pass",
+      "category": "a11y",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "static.title",
+      "label": "Tajuk halaman",
+      "status": "pass",
+      "category": "seo",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "static.description",
+      "label": "Meta description",
+      "status": "pass",
+      "category": "seo",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "static.viewport",
+      "label": "Meta viewport",
+      "status": "pass",
+      "category": "teknikal",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "static.robots",
+      "label": "Arahan robots",
+      "status": "pass",
+      "category": "seo",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "static.h1",
+      "label": "Satu H1 setiap halaman",
+      "status": "pass",
+      "category": "a11y",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "static.alt",
+      "label": "Alt text imej",
+      "status": "pass",
+      "category": "a11y",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "static.seo",
+      "label": "Canonical dan Open Graph",
+      "status": "warn",
+      "category": "seo",
+      "detail": "27 isu",
+      "items": [
+        {
+          "fail": "index.html",
+          "mesej": "Tiada canonical"
+        },
+        {
+          "fail": "index.html",
+          "mesej": "Tiada og:title"
+        },
+        {
+          "fail": "index.html",
+          "mesej": "Tiada og:description"
+        },
+        {
+          "fail": "pages/aktiviti.html",
+          "mesej": "Tiada canonical"
+        },
+        {
+          "fail": "pages/aktiviti.html",
+          "mesej": "Tiada og:title"
+        },
+        {
+          "fail": "pages/aktiviti.html",
+          "mesej": "Tiada og:description"
+        },
+        {
+          "fail": "pages/bahan-bacaan.html",
+          "mesej": "Tiada canonical"
+        },
+        {
+          "fail": "pages/bahan-bacaan.html",
+          "mesej": "Tiada og:title"
+        },
+        {
+          "fail": "pages/bahan-bacaan.html",
+          "mesej": "Tiada og:description"
+        },
+        {
+          "fail": "pages/berita.html",
+          "mesej": "Tiada canonical"
+        },
+        {
+          "fail": "pages/berita.html",
+          "mesej": "Tiada og:title"
+        },
+        {
+          "fail": "pages/berita.html",
+          "mesej": "Tiada og:description"
+        },
+        {
+          "fail": "pages/hubungi.html",
+          "mesej": "Tiada canonical"
+        },
+        {
+          "fail": "pages/hubungi.html",
+          "mesej": "Tiada og:title"
+        },
+        {
+          "fail": "pages/hubungi.html",
+          "mesej": "Tiada og:description"
+        },
+        {
+          "fail": "pages/jaringan.html",
+          "mesej": "Tiada canonical"
+        },
+        {
+          "fail": "pages/jaringan.html",
+          "mesej": "Tiada og:title"
+        },
+        {
+          "fail": "pages/jaringan.html",
+          "mesej": "Tiada og:description"
+        },
+        {
+          "fail": "pages/kepimpinan.html",
+          "mesej": "Tiada canonical"
+        },
+        {
+          "fail": "pages/kepimpinan.html",
+          "mesej": "Tiada og:title"
+        },
+        {
+          "fail": "pages/kepimpinan.html",
+          "mesej": "Tiada og:description"
+        },
+        {
+          "fail": "pages/latar-belakang.html",
+          "mesej": "Tiada canonical"
+        },
+        {
+          "fail": "pages/latar-belakang.html",
+          "mesej": "Tiada og:title"
+        },
+        {
+          "fail": "pages/latar-belakang.html",
+          "mesej": "Tiada og:description"
+        },
+        {
+          "fail": "pages/tentang.html",
+          "mesej": "Tiada canonical"
+        },
+        {
+          "fail": "pages/tentang.html",
+          "mesej": "Tiada og:title"
+        },
+        {
+          "fail": "pages/tentang.html",
+          "mesej": "Tiada og:description"
+        }
+      ]
+    },
+    {
+      "id": "static.a11y",
+      "label": "Skip link, label dan pautan selamat",
+      "status": "pass",
+      "category": "a11y",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "static.links",
+      "label": "Pautan dan aset tempatan",
+      "status": "pass",
+      "category": "pautan",
+      "detail": "Semua pautan/aset ditemui",
+      "items": []
+    },
+    {
+      "id": "static.css",
+      "label": "Import dan url() CSS",
+      "status": "pass",
+      "category": "pautan",
+      "detail": "Semua rujukan CSS ditemui",
+      "items": []
+    },
+    {
+      "id": "static.json",
+      "label": "Fail JSON sah",
+      "status": "pass",
+      "category": "data",
+      "detail": "14 fail JSON sah",
+      "items": []
+    },
+    {
+      "id": "static.program",
+      "label": "Sumber program dan data aktiviti",
+      "status": "pass",
+      "category": "data",
+      "detail": "Semakan sumber program dan data aktiviti",
+      "items": []
+    },
+    {
+      "id": "static.sorotan",
+      "label": "Nombor sorotan unik",
+      "status": "pass",
+      "category": "data",
+      "detail": "Semua nombor sorotan unik",
+      "items": []
+    },
+    {
+      "id": "static.large_images",
+      "label": "Saiz gambar",
+      "status": "warn",
+      "category": "prestasi",
+      "detail": "2 gambar melebihi 500 KB",
+      "items": [
+        {
+          "fail": "assets/img/logo-perkim-kuala-langat.jpg",
+          "kb": 1236.4
+        },
+        {
+          "fail": "assets/img/logo-perkim-kuala-langat.png",
+          "kb": 3881.6
+        }
+      ]
+    },
+    {
+      "id": "static.temp_files",
+      "label": "Fail sementara",
+      "status": "warn",
+      "category": "teknikal",
+      "detail": "11 fail .bak/.tmp",
+      "items": [
+        {
+          "fail": "backups/base.css.bak"
+        },
+        {
+          "fail": "backups/components.js.bak"
+        },
+        {
+          "fail": "backups/components.js.before-expanded-title.bak"
+        },
+        {
+          "fail": "backups/components.js.before-remove-seterusnya.bak"
+        },
+        {
+          "fail": "backups/masa-solat-ui.js.bak"
+        },
+        {
+          "fail": "backups/masa-solat-ui.js.before-remove-seterusnya.bak"
+        },
+        {
+          "fail": "backups/masa-solat.css.bak"
+        },
+        {
+          "fail": "backups/masa-solat.css.before-expanded-title.bak"
+        },
+        {
+          "fail": "backups/masa-solat.css.before-floating-nav.bak"
+        },
+        {
+          "fail": "backups/masa-solat.css.before-right-align.bak"
+        },
+        {
+          "fail": "backups/variables.css.bak"
+        }
+      ]
+    },
+    {
+      "id": "static.sensitive",
+      "label": "Tiada token atau kunci dalam repo",
+      "status": "pass",
+      "category": "keselamatan",
+      "detail": "Tiada penemuan sensitif",
+      "items": []
+    },
+    {
+      "id": "live.pages",
+      "label": "Halaman live",
+      "status": "pass",
+      "category": "deploy",
+      "detail": "9/9 halaman HTTP 200",
+      "items": []
+    },
+    {
+      "id": "live.response_time",
+      "label": "Masa respons",
+      "status": "pass",
+      "category": "prestasi",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "live.html_size",
+      "label": "Saiz HTML",
+      "status": "pass",
+      "category": "prestasi",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "live.titles",
+      "label": "Tajuk live",
+      "status": "pass",
+      "category": "seo",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "live.descriptions",
+      "label": "Meta description live",
+      "status": "pass",
+      "category": "seo",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "live.h1",
+      "label": "H1 live",
+      "status": "pass",
+      "category": "a11y",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "live.lang",
+      "label": "Bahasa live",
+      "status": "pass",
+      "category": "a11y",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "live.viewport",
+      "label": "Viewport live",
+      "status": "pass",
+      "category": "teknikal",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "live.alt",
+      "label": "Alt text live",
+      "status": "pass",
+      "category": "a11y",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "live.a11y",
+      "label": "Skip link & pautan selamat",
+      "status": "pass",
+      "category": "a11y",
+      "detail": "Tiada isu",
+      "items": []
+    },
+    {
+      "id": "live.seo",
+      "label": "Canonical, OG & robots",
+      "status": "warn",
+      "category": "seo",
+      "detail": "27 isu",
+      "items": [
+        {
+          "page": "index.html",
+          "label": "Halaman Utama",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "page": "index.html",
+          "label": "Halaman Utama",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "page": "index.html",
+          "label": "Halaman Utama",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "page": "pages/tentang.html",
+          "label": "Tentang Cawangan",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "page": "pages/tentang.html",
+          "label": "Tentang Cawangan",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "page": "pages/tentang.html",
+          "label": "Tentang Cawangan",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "page": "pages/latar-belakang.html",
+          "label": "Latar Belakang PERKIM",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "page": "pages/latar-belakang.html",
+          "label": "Latar Belakang PERKIM",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "page": "pages/latar-belakang.html",
+          "label": "Latar Belakang PERKIM",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "page": "pages/kepimpinan.html",
+          "label": "Kepimpinan",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "page": "pages/kepimpinan.html",
+          "label": "Kepimpinan",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "page": "pages/kepimpinan.html",
+          "label": "Kepimpinan",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "page": "pages/jaringan.html",
+          "label": "Jaringan PERKIM",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "page": "pages/jaringan.html",
+          "label": "Jaringan PERKIM",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "page": "pages/jaringan.html",
+          "label": "Jaringan PERKIM",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "page": "pages/hubungi.html",
+          "label": "Hubungi",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "page": "pages/hubungi.html",
+          "label": "Hubungi",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "page": "pages/hubungi.html",
+          "label": "Hubungi",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "page": "pages/berita.html",
+          "label": "Berita Kebangsaan",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "page": "pages/berita.html",
+          "label": "Berita Kebangsaan",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "page": "pages/berita.html",
+          "label": "Berita Kebangsaan",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "page": "pages/bahan-bacaan.html",
+          "label": "Bahan Bacaan",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "page": "pages/bahan-bacaan.html",
+          "label": "Bahan Bacaan",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "page": "pages/bahan-bacaan.html",
+          "label": "Bahan Bacaan",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        },
+        {
+          "page": "pages/aktiviti.html",
+          "label": "Aktiviti Cawangan",
+          "severity": "warn",
+          "message": "Tiada canonical"
+        },
+        {
+          "page": "pages/aktiviti.html",
+          "label": "Aktiviti Cawangan",
+          "severity": "warn",
+          "message": "Tiada og:title"
+        },
+        {
+          "page": "pages/aktiviti.html",
+          "label": "Aktiviti Cawangan",
+          "severity": "warn",
+          "message": "Tiada og:description"
+        }
+      ]
+    },
+    {
+      "id": "live.internal_links",
+      "label": "Pautan dalaman live",
+      "status": "pass",
+      "category": "pautan",
+      "detail": "8 pautan disemak · 0 gagal · 0 amaran",
+      "items": []
+    },
+    {
+      "id": "live.external_links",
+      "label": "Pautan luaran live",
+      "status": "pass",
+      "category": "pautan",
+      "detail": "11 pautan disemak · 0 gagal · 0 amaran",
+      "items": []
+    },
+    {
+      "id": "r2.pdf",
+      "label": "PDF R2",
+      "status": "pass",
+      "category": "r2",
+      "detail": "14 PDF · 0 gagal · 0 amaran",
+      "items": []
+    },
+    {
+      "id": "r2.cover",
+      "label": "Cover R2",
+      "status": "pass",
+      "category": "r2",
+      "detail": "14 cover · 0 gagal · 0 amaran",
+      "items": []
+    },
+    {
+      "id": "deploy.commit",
+      "label": "Commit terakhir",
+      "status": "pass",
+      "category": "deploy",
+      "detail": "bf990ff · Tambah banner AJK PERKIM di halaman utama",
+      "items": []
+    },
+    {
+      "id": "deploy.actions",
+      "label": "GitHub Actions",
+      "status": "pass",
+      "category": "deploy",
+      "detail": "completed · success",
+      "items": [
+        {
+          "name": "pages build and deployment",
+          "url": "https://github.com/perkimkualalangat/Website-PERKIM/actions/runs/43147584806"
+        }
+      ]
+    },
+    {
+      "id": "deploy.pages",
+      "label": "GitHub Pages",
+      "status": "unknown",
+      "category": "deploy",
+      "detail": "Not Found",
+      "items": [
+        {
+          "error": "Not Found"
+        }
+      ]
+    },
+    {
+      "id": "lighthouse.performance",
+      "label": "Prestasi Lighthouse",
+      "status": "warn",
+      "category": "prestasi",
+      "detail": "Skor purata 75/100",
+      "items": []
+    },
+    {
+      "id": "lighthouse.accessibility",
+      "label": "Kebolehcapaian Lighthouse",
+      "status": "pass",
+      "category": "a11y",
+      "detail": "Skor purata 98/100",
+      "items": []
+    },
+    {
+      "id": "lighthouse.best_practices",
+      "label": "Amalan terbaik Lighthouse",
+      "status": "pass",
+      "category": "prestasi",
+      "detail": "Skor purata 100/100",
+      "items": []
+    },
+    {
+      "id": "lighthouse.seo",
+      "label": "SEO Lighthouse",
+      "status": "unknown",
+      "category": "seo",
+      "detail": "Tidak terpakai semasa draf (noindex disengajakan)",
+      "items": []
+    },
+    {
+      "id": "uptime.current",
+      "label": "Ketersediaan laman",
+      "status": "pass",
+      "category": "deploy",
+      "detail": "HTTP 200 · 210 ms",
+      "items": []
+    }
+  ],
+  "meta": {
+    "tool": "perkim-monitor",
+    "version": "1.0.0",
+    "static_generated_at": "2026-11-12T04:59:25Z",
+    "chrome": "chrome.exe",
+    "lighthouse_enabled": true,
+    "site_root": "C:\\Users\\rafee\\Downloads\\PERKIM\\perkim-web"
+  }
+}

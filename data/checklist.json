@@ -1,0 +1,111 @@
+{
+  "versi": 1,
+  "dikemaskini": "2026-11-12",
+  "nota": "Tanda selesai disimpan dalam localStorage pelayar ini sahaja. Gunakan Eksport/Import untuk pindah antara peranti.",
+  "kumpulan": [
+    {
+      "id": "kandungan",
+      "tajuk": "Kandungan & Mesej",
+      "ikon": "file-text",
+      "item": [
+        { "id": "kandungan-01", "tajuk": "Semua halaman mempunyai tajuk dan meta description yang unik", "status": "belum", "pemilik": "Pentadbir laman", "tarikh": null, "nota": "Semak 9 halaman awam." },
+        { "id": "kandungan-02", "tajuk": "Tiada teks draf atau nama yang belum disahkan dipaparkan sebagai fakta", "status": "sedang", "pemilik": "Setiausaha", "tarikh": null, "nota": "Banner draf masih aktif." },
+        { "id": "kandungan-03", "tajuk": "Alamat, telefon, e-mel dan waktu pejabat disahkan", "status": "selesai", "pemilik": "Pentadbir laman", "tarikh": "2026-10-30", "nota": "Sumber: Google Business Profile." },
+        { "id": "kandungan-04", "tajuk": "Senarai kepimpinan 2026–2028 disahkan sebelum diterbitkan", "status": "belum", "pemilik": "Setiausaha", "tarikh": null, "nota": "Beberapa jawatan masih menunggu pengesahan." },
+        { "id": "kandungan-05", "tajuk": "Semua pautan media sosial menuju akaun rasmi", "status": "belum", "pemilik": "Pentadbir laman", "tarikh": null, "nota": "TikTok masih ke akaun kebangsaan." },
+        { "id": "kandungan-06", "tajuk": "Halaman Hubungi mempunyai butiran yang lengkap dan peta yang berfungsi", "status": "belum", "pemilik": "Pentadbir laman", "tarikh": null, "nota": null }
+      ]
+    },
+    {
+      "id": "program",
+      "tajuk": "Program & Sorotan",
+      "ikon": "calendar",
+      "item": [
+        { "id": "program-01", "tajuk": "Setiap program mempunyai caption.md yang lengkap", "status": "selesai", "pemilik": "Pentadbir program", "tarikh": null, "nota": "2 program sedia ada." },
+        { "id": "program-02", "tajuk": "Alt text disediakan untuk setiap gambar program", "status": "belum", "pemilik": "Pentadbir program", "tarikh": null, "nota": "Disemak oleh audit." },
+        { "id": "program-03", "tajuk": "Nombor sorotan unik dan mengikut urutan yang betul", "status": "belum", "pemilik": "Pentadbir program", "tarikh": null, "nota": "Semak jika menambah program baharu." },
+        { "id": "program-04", "tajuk": "Gambar slaid 1080×1350 dan di bawah 500 KB", "status": "belum", "pemilik": "Pentadbir program", "tarikh": null, "nota": "Nisbah 4:5 untuk slaid." },
+        { "id": "program-05", "tajuk": "Status program disahkan selepas semakan kandungan", "status": "belum", "pemilik": "Setiausaha", "tarikh": null, "nota": "Semua program masih draf." },
+        { "id": "program-06", "tajuk": "Laporan penuh disediakan jika butang laporan dipaparkan", "status": "belum", "pemilik": "Pentadbir program", "tarikh": null, "nota": null }
+      ]
+    },
+    {
+      "id": "teknikal",
+      "tajuk": "Teknikal & Aset",
+      "ikon": "settings",
+      "item": [
+        { "id": "teknikal-01", "tajuk": "Tiada pautan dalaman atau aset yang rosak", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Disemak oleh audit statik." },
+        { "id": "teknikal-02", "tajuk": "Semua fail JSON sah dan boleh dibaca", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Termasuk data/aktiviti.json." },
+        { "id": "teknikal-03", "tajuk": "Semua PDF dan cover R2 boleh diakses", "status": "selesai", "pemilik": "Pembangun", "tarikh": "2026-11-04", "nota": "14 buku dipindahkan ke R2." },
+        { "id": "teknikal-04", "tajuk": "Gambar besar dimampatkan sebelum commit", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Ambang audit: 500 KB." },
+        { "id": "teknikal-05", "tajuk": "Tiada fail .bak atau fail sementara dalam repo", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "caption.md.bak boleh terhasil dari Tetapan." },
+        { "id": "teknikal-06", "tajuk": "Cache busting digunakan selepas kemas kini data", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "GitHub Pages cache 10 minit." }
+      ]
+    },
+    {
+      "id": "seo",
+      "tajuk": "SEO & Metadata",
+      "ikon": "search",
+      "item": [
+        { "id": "seo-01", "tajuk": "Title dan meta description lengkap untuk setiap halaman", "status": "belum", "pemilik": "Pentadbir laman", "tarikh": null, "nota": null },
+        { "id": "seo-02", "tajuk": "Open Graph title, description dan image disediakan", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Untuk paparan perkongsian sosial." },
+        { "id": "seo-03", "tajuk": "Canonical URL ditetapkan untuk halaman utama", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": null },
+        { "id": "seo-04", "tajuk": "noindex, nofollow hanya digunakan semasa fasa draf", "status": "selesai", "pemilik": "Pembangun", "tarikh": null, "nota": "Tukar config fasa kepada live selepas pelancaran." },
+        { "id": "seo-05", "tajuk": "Sitemap dan robots.txt disediakan selepas pelancaran", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Jangan dedahkan sebelum disahkan." },
+        { "id": "seo-06", "tajuk": "Structured data organisasi dipertimbangkan", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Schema.org NGO." }
+      ]
+    },
+    {
+      "id": "a11y",
+      "tajuk": "Kebolehcapaian",
+      "ikon": "accessibility",
+      "item": [
+        { "id": "a11y-01", "tajuk": "Setiap halaman menggunakan lang=\"ms\"", "status": "selesai", "pemilik": "Pembangun", "tarikh": null, "nota": "Disemak oleh audit." },
+        { "id": "a11y-02", "tajuk": "Skip link dan fokus papan kekunci berfungsi", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": null },
+        { "id": "a11y-03", "tajuk": "Semua imej kandungan mempunyai alt text", "status": "belum", "pemilik": "Pentadbir program", "tarikh": null, "nota": null },
+        { "id": "a11y-04", "tajuk": "Borang mempunyai label yang betul", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Termasuk carian dan Tetapan." },
+        { "id": "a11y-05", "tajuk": "Susunan heading logik (satu H1 setiap halaman)", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": null },
+        { "id": "a11y-06", "tajuk": "Kontras warna dan saiz teks mudah alih disemak", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Lighthouse accessibility." }
+      ]
+    },
+    {
+      "id": "deploy",
+      "tajuk": "Deploy & Repo",
+      "ikon": "upload-cloud",
+      "item": [
+        { "id": "deploy-01", "tajuk": "GitHub Pages aktif dan laman live boleh diakses", "status": "selesai", "pemilik": "Pembangun", "tarikh": null, "nota": "https://perkimkualalangat.github.io/Website-PERKIM/" },
+        { "id": "deploy-02", "tajuk": "Banner AJK live tanpa crop", "status": "selesai", "pemilik": "Pembangun", "tarikh": "2026-11-12", "nota": "Commit bf990ff." },
+        { "id": "deploy-03", "tajuk": "Workflow audit GitHub Actions berjaya", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Selepas repo monitor diterbitkan." },
+        { "id": "deploy-04", "tajuk": "Status deploy dipaparkan dalam dashboard", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": null },
+        { "id": "deploy-05", "tajuk": "Custom domain dipertimbangkan selepas pelancaran", "status": "belum", "pemilik": "Pentadbir", "tarikh": null, "nota": "Pilihan, bukan keperluan Fasa 1." },
+        { "id": "deploy-06", "tajuk": "Backup repo dan data R2 disimpan", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": null }
+      ]
+    },
+    {
+      "id": "keselamatan",
+      "tajuk": "Keselamatan",
+      "ikon": "shield",
+      "item": [
+        { "id": "keselamatan-01", "tajuk": "Tiada token atau kunci API dalam repo", "status": "selesai", "pemilik": "Pembangun", "tarikh": null, "nota": "Token dibuang dari .git/config." },
+        { "id": "keselamatan-02", "tajuk": "Token lama telah revoke/regenerate", "status": "belum", "pemilik": "Pentadbir", "tarikh": null, "nota": "Token yang pernah dipaparkan dalam chat." },
+        { "id": "keselamatan-03", "tajuk": "Halaman Tetapan tidak boleh diakses sebagai admin di live", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "API hanya localhost." },
+        { "id": "keselamatan-04", "tajuk": "Tiada data sensitif dalam repo public", "status": "belum", "pemilik": "Pentadbir", "tarikh": null, "nota": "Dashboard ini awam." },
+        { "id": "keselamatan-05", "tajuk": "Dependency dikemas kini dan diaudit", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "npm audit." },
+        { "id": "keselamatan-06", "tajuk": "Akses R2 menggunakan dasar awam yang sesuai", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Bucket public untuk PDF." }
+      ]
+    },
+    {
+      "id": "operasi",
+      "tajuk": "Operasi & Penyelenggaraan",
+      "ikon": "activity",
+      "item": [
+        { "id": "operasi-01", "tajuk": "Audit automatik berjalan setiap 6 jam", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "GitHub Actions cron." },
+        { "id": "operasi-02", "tajuk": "Semak dashboard sekurang-kurangnya seminggu sekali", "status": "belum", "pemilik": "Pentadbir laman", "tarikh": null, "nota": null },
+        { "id": "operasi-03", "tajuk": "Semak program baharu dan nombor sorotan selepas setiap kemas kini", "status": "belum", "pemilik": "Pentadbir program", "tarikh": null, "nota": null },
+        { "id": "operasi-04", "tajuk": "Semak PDF/cover R2 selepas upload baharu", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": null },
+        { "id": "operasi-05", "tajuk": "Kemas kini README dan dokumentasi aliran kerja", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": null },
+        { "id": "operasi-06", "tajuk": "Uptime 5 minit dipertimbangkan melalui UptimeRobot", "status": "belum", "pemilik": "Pembangun", "tarikh": null, "nota": "Audit GitHub Actions hanya setiap 6 jam." }
+      ]
+    }
+  ]
+}

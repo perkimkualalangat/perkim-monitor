@@ -1,0 +1,94 @@
+[
+  {
+    "at": "2026-11-12T04:33:40Z",
+    "score": 95,
+    "pass": 30,
+    "warn": 6,
+    "fail": 0,
+    "categories": {
+      "pautan": 100,
+      "data": 100,
+      "r2": 100,
+      "seo": 90,
+      "a11y": 100,
+      "prestasi": 88,
+      "deploy": 83,
+      "keselamatan": 100,
+      "teknikal": 88
+    },
+    "lighthouse": {},
+    "sha": null,
+    "duration_ms": 12429
+  },
+  {
+    "at": "2026-11-12T04:56:28Z",
+    "score": 97,
+    "pass": 32,
+    "warn": 4,
+    "fail": 0,
+    "categories": {
+      "pautan": 100,
+      "data": 100,
+      "r2": 100,
+      "seo": 90,
+      "a11y": 100,
+      "prestasi": 88,
+      "deploy": 100,
+      "keselamatan": 100,
+      "teknikal": 88
+    },
+    "lighthouse": {},
+    "sha": "bf990ff",
+    "duration_ms": 12362
+  },
+  {
+    "at": "2026-11-12T04:57:58Z",
+    "score": 94,
+    "pass": 34,
+    "warn": 5,
+    "fail": 1,
+    "categories": {
+      "pautan": 100,
+      "data": 100,
+      "r2": 100,
+      "seo": 77,
+      "a11y": 99,
+      "prestasi": 85,
+      "deploy": 100,
+      "keselamatan": 100,
+      "teknikal": 88
+    },
+    "lighthouse": {
+      "Halaman Utama": 51,
+      "Aktiviti Cawangan": 82,
+      "Bahan Bacaan": 77
+    },
+    "sha": "bf990ff",
+    "duration_ms": 74631
+  },
+  {
+    "at": "2026-11-12T05:00:36Z",
+    "score": 95,
+    "pass": 34,
+    "warn": 5,
+    "fail": 0,
+    "categories": {
+      "pautan": 100,
+      "data": 100,
+      "r2": 100,
+      "seo": 77,
+      "a11y": 99,
+      "prestasi": 87,
+      "deploy": 100,
+      "keselamatan": 100,
+      "teknikal": 88
+    },
+    "lighthouse": {
+      "Halaman Utama": 56,
+      "Aktiviti Cawangan": 82,
+      "Bahan Bacaan": 86
+    },
+    "sha": "bf990ff",
+    "duration_ms": 73108
+  }
+]
