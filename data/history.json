@@ -590,5 +590,30 @@
     },
     "sha": "bf990ff",
     "duration_ms": 34242
+  },
+  {
+    "at": "2026-11-17T00:39:25Z",
+    "score": 94,
+    "pass": 36,
+    "warn": 4,
+    "fail": 0,
+    "categories": {
+      "pautan": 91,
+      "data": 100,
+      "r2": 100,
+      "seo": 77,
+      "a11y": 99,
+      "prestasi": 91,
+      "deploy": 100,
+      "keselamatan": 100,
+      "teknikal": 100
+    },
+    "lighthouse": {
+      "Halaman Utama": 73,
+      "Aktiviti Cawangan": 86,
+      "Bahan Bacaan": 80
+    },
+    "sha": "bf990ff",
+    "duration_ms": 40940
   }
 ]
