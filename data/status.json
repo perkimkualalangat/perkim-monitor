@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T06:51:36Z",
-  "duration_ms": 36458,
+  "generated_at": "2026-11-21T12:39:38Z",
+  "duration_ms": 40758,
   "site": {
     "name": "PERKIM Cawangan Kuala Langat",
     "short_name": "PERKIM Kuala Langat",
@@ -197,7 +197,7 @@
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/",
       "status": 200,
       "ok": true,
-      "ms": 197,
+      "ms": 177,
       "bytes": 17282,
       "title": "PERKIM Kuala Langat — laman draf",
       "description": "Laman draf dalaman PERKIM Kuala Langat. Belum disahkan dan bukan laman rasmi.",
@@ -356,7 +356,7 @@
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/tentang.html",
       "status": 200,
       "ok": true,
-      "ms": 102,
+      "ms": 120,
       "bytes": 5400,
       "title": "Tentang | PERKIM Kuala Langat (draf)",
       "description": "Halaman draf profil cawangan. Teks rasmi belum diterima.",
@@ -473,7 +473,7 @@
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/latar-belakang.html",
       "status": 200,
       "ok": true,
-      "ms": 90,
+      "ms": 97,
       "bytes": 6288,
       "title": "PERKIM Kebangsaan | PERKIM Kuala Langat (draf)",
       "description": "Latar belakang ringkas PERKIM Kebangsaan: sejarah, visi, misi, lima teras dan struktur organisasi.",
@@ -578,7 +578,7 @@
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/kepimpinan.html",
       "status": 200,
       "ok": true,
-      "ms": 120,
+      "ms": 110,
       "bytes": 3748,
       "title": "Kepimpinan 2026–2028 | PERKIM Kuala Langat (draf)",
       "description": "Struktur jawatan draf sesi 2026–2028 dengan status pengesahan setiap baris.",
@@ -677,7 +677,7 @@
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/jaringan.html",
       "status": 200,
       "ok": true,
-      "ms": 104,
+      "ms": 92,
       "bytes": 3679,
       "title": "Jaringan PERKIM | PERKIM Kuala Langat (draf)",
       "description": "Peta dunia ASCII jaringan PERKIM: cawangan negeri, cawangan daerah dan rakan antarabangsa.",
@@ -776,7 +776,7 @@
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/hubungi.html",
       "status": 200,
       "ok": true,
-      "ms": 83,
+      "ms": 124,
       "bytes": 7466,
       "title": "Hubungi | PERKIM Kuala Langat (draf)",
       "description": "Alamat dan saluran hubungan cawangan. Sebahagian maklumat belum disahkan.",
@@ -917,7 +917,7 @@
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/berita.html",
       "status": 200,
       "ok": true,
-      "ms": 95,
+      "ms": 83,
       "bytes": 2691,
       "title": "Berita | PERKIM Kuala Langat (draf)",
       "description": "Indeks tajuk berita PERKIM Kebangsaan dengan pautan ke laman rasmi.",
@@ -1016,7 +1016,7 @@
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/bahan-bacaan.html",
       "status": 200,
       "ok": true,
-      "ms": 87,
+      "ms": 102,
       "bytes": 2616,
       "title": "Bahan Bacaan | PERKIM Kuala Langat (draf)",
       "description": "Buku Teks Kelas Pengajian Islam PERKIM Kebangsaan — 14 buku dalam lima peringkat, boleh dibaca terus di laman.",
@@ -1109,7 +1109,7 @@
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/aktiviti.html",
       "status": 200,
       "ok": true,
-      "ms": 88,
+      "ms": 85,
       "bytes": 3154,
       "title": "Aktiviti Cawangan | PERKIM Kuala Langat (draf)",
       "description": "Laporan ringkas program dan aktiviti PERKIM Cawangan Kuala Langat dengan pautan ke post Facebook asal.",
@@ -1314,13 +1314,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 4009874,
       "pdf_type": "application/pdf",
-      "pdf_ms": 432,
+      "pdf_ms": 379,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 78507,
       "cover_type": "image/jpeg",
-      "cover_ms": 177,
+      "cover_ms": 151,
       "issues": []
     },
     {
@@ -1335,13 +1335,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 755911,
       "pdf_type": "application/pdf",
-      "pdf_ms": 420,
+      "pdf_ms": 386,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 32793,
       "cover_type": "image/jpeg",
-      "cover_ms": 182,
+      "cover_ms": 149,
       "issues": []
     },
     {
@@ -1356,13 +1356,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 895765,
       "pdf_type": "application/pdf",
-      "pdf_ms": 638,
+      "pdf_ms": 379,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 28237,
       "cover_type": "image/jpeg",
-      "cover_ms": 181,
+      "cover_ms": 146,
       "issues": []
     },
     {
@@ -1377,13 +1377,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 1482238,
       "pdf_type": "application/pdf",
-      "pdf_ms": 434,
+      "pdf_ms": 381,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 30520,
       "cover_type": "image/jpeg",
-      "cover_ms": 199,
+      "cover_ms": 149,
       "issues": []
     },
     {
@@ -1398,13 +1398,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 5772106,
       "pdf_type": "application/pdf",
-      "pdf_ms": 177,
+      "pdf_ms": 160,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 27939,
       "cover_type": "image/jpeg",
-      "cover_ms": 178,
+      "cover_ms": 151,
       "issues": []
     },
     {
@@ -1419,13 +1419,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 817864,
       "pdf_type": "application/pdf",
-      "pdf_ms": 220,
+      "pdf_ms": 155,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 27274,
       "cover_type": "image/jpeg",
-      "cover_ms": 172,
+      "cover_ms": 156,
       "issues": []
     },
     {
@@ -1440,13 +1440,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 1803677,
       "pdf_type": "application/pdf",
-      "pdf_ms": 188,
+      "pdf_ms": 157,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 34888,
       "cover_type": "image/jpeg",
-      "cover_ms": 189,
+      "cover_ms": 155,
       "issues": []
     },
     {
@@ -1461,13 +1461,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 1203097,
       "pdf_type": "application/pdf",
-      "pdf_ms": 168,
+      "pdf_ms": 170,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 33523,
       "cover_type": "image/jpeg",
-      "cover_ms": 177,
+      "cover_ms": 156,
       "issues": []
     },
     {
@@ -1482,13 +1482,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 1507602,
       "pdf_type": "application/pdf",
-      "pdf_ms": 174,
+      "pdf_ms": 170,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 35189,
       "cover_type": "image/jpeg",
-      "cover_ms": 179,
+      "cover_ms": 149,
       "issues": []
     },
     {
@@ -1503,13 +1503,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 840273,
       "pdf_type": "application/pdf",
-      "pdf_ms": 204,
+      "pdf_ms": 157,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 35008,
       "cover_type": "image/jpeg",
-      "cover_ms": 181,
+      "cover_ms": 161,
       "issues": []
     },
     {
@@ -1524,13 +1524,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 1233535,
       "pdf_type": "application/pdf",
-      "pdf_ms": 173,
+      "pdf_ms": 143,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 33023,
       "cover_type": "image/jpeg",
-      "cover_ms": 174,
+      "cover_ms": 160,
       "issues": []
     },
     {
@@ -1545,13 +1545,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 1082253,
       "pdf_type": "application/pdf",
-      "pdf_ms": 195,
+      "pdf_ms": 156,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 32280,
       "cover_type": "image/jpeg",
-      "cover_ms": 175,
+      "cover_ms": 151,
       "issues": []
     },
     {
@@ -1566,13 +1566,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 890881,
       "pdf_type": "application/pdf",
-      "pdf_ms": 194,
+      "pdf_ms": 150,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 30975,
       "cover_type": "image/jpeg",
-      "cover_ms": 174,
+      "cover_ms": 151,
       "issues": []
     },
     {
@@ -1587,13 +1587,13 @@
       "pdf_level": "pass",
       "pdf_bytes": 1229659,
       "pdf_type": "application/pdf",
-      "pdf_ms": 186,
+      "pdf_ms": 158,
       "cover_status": 200,
       "cover_ok": true,
       "cover_level": "pass",
       "cover_bytes": 32161,
       "cover_type": "image/jpeg",
-      "cover_ms": 173,
+      "cover_ms": 168,
       "issues": []
     }
   ],
@@ -1608,7 +1608,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 19,
+      "ms": 15,
       "method": "HEAD",
       "error": null
     },
@@ -1621,7 +1621,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 118,
+      "ms": 122,
       "method": "HEAD",
       "error": null
     },
@@ -1635,7 +1635,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 93,
+      "ms": 26,
       "method": "HEAD",
       "error": null
     },
@@ -1652,7 +1652,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 113,
+      "ms": 26,
       "method": "HEAD",
       "error": null
     },
@@ -1665,7 +1665,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 114,
+      "ms": 26,
       "method": "HEAD",
       "error": null
     },
@@ -1678,7 +1678,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 29,
+      "ms": 25,
       "method": "HEAD",
       "error": null
     },
@@ -1698,7 +1698,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 99,
+      "ms": 106,
       "method": "HEAD",
       "error": null
     },
@@ -1711,7 +1711,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 94,
+      "ms": 26,
       "method": "HEAD",
       "error": null
     },
@@ -1726,7 +1726,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 86,
+      "ms": 46,
       "method": "HEAD",
       "error": null
     },
@@ -1740,7 +1740,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 814,
+      "ms": 394,
       "method": "HEAD",
       "error": null
     },
@@ -1753,7 +1753,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 1143,
+      "ms": 1051,
       "method": "HEAD",
       "error": null
     },
@@ -1766,7 +1766,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 3896,
+      "ms": 3544,
       "method": "HEAD",
       "error": null
     },
@@ -1779,7 +1779,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 871,
+      "ms": 480,
       "method": "HEAD",
       "error": null
     },
@@ -1792,7 +1792,7 @@
       "status": 429,
       "ok": false,
       "level": "warn",
-      "ms": 640,
+      "ms": 376,
       "method": "HEAD",
       "error": null
     },
@@ -1805,7 +1805,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 636,
+      "ms": 409,
       "method": "HEAD",
       "error": null
     },
@@ -1818,8 +1818,8 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 407,
-      "method": "HEAD",
+      "ms": 633,
+      "method": "GET",
       "error": null
     },
     {
@@ -1831,7 +1831,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 2221,
+      "ms": 48,
       "method": "HEAD",
       "error": null
     },
@@ -1844,7 +1844,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 1115,
+      "ms": 995,
       "method": "HEAD",
       "error": null
     },
@@ -1857,7 +1857,7 @@
       "status": 200,
       "ok": true,
       "level": "pass",
-      "ms": 783,
+      "ms": 555,
       "method": "HEAD",
       "error": null
     }
@@ -1874,14 +1874,14 @@
         "seo": 63
       },
       "metrics": {
-        "fcp": 1323.5939999999998,
-        "lcp": 3820.3779999999997,
-        "cls": 0.001498233989829296,
-        "tbt": 19,
-        "si": 1755.5450400656714
+        "fcp": 1294.3325,
+        "lcp": 3844.3325,
+        "cls": 0.002636290373408045,
+        "tbt": 30,
+        "si": 2024.5016634389672
       },
       "warnings": [],
-      "fetch_time": "2026-11-21T06:51:10.303Z"
+      "fetch_time": "2026-11-21T12:39:15.291Z"
     },
     {
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/aktiviti.html",
@@ -1894,14 +1894,14 @@
         "seo": 63
       },
       "metrics": {
-        "fcp": 1362.0059,
-        "lcp": 1512.0059,
-        "cls": 0.26614897127619513,
-        "tbt": 29,
-        "si": 1362.0059
+        "fcp": 1358.4758000000002,
+        "lcp": 1508.4758000000002,
+        "cls": 0.2671180977652841,
+        "tbt": 0,
+        "si": 1358.4758000000002
       },
       "warnings": [],
-      "fetch_time": "2026-11-21T06:51:21.798Z"
+      "fetch_time": "2026-11-21T12:39:25.377Z"
     },
     {
       "url": "https://perkimkualalangat.github.io/Website-PERKIM/pages/bahan-bacaan.html",
@@ -1914,14 +1914,14 @@
         "seo": 63
       },
       "metrics": {
-        "fcp": 1062.7298,
-        "lcp": 1212.7298,
-        "cls": 0.4268696846380616,
-        "tbt": 11.5,
-        "si": 1062.7298
+        "fcp": 1058.8617,
+        "lcp": 1208.8617,
+        "cls": 0.4278085259243665,
+        "tbt": 0,
+        "si": 1058.8617
       },
       "warnings": [],
-      "fetch_time": "2026-11-21T06:51:29.425Z"
+      "fetch_time": "2026-11-21T12:39:32.020Z"
     }
   ],
   "deploy": {
@@ -1988,14 +1988,14 @@
       "updated_at": "2026-11-17T15:23:25Z"
     },
     "error": null,
-    "checked_at": "2026-11-21T06:51:08Z"
+    "checked_at": "2026-11-21T12:39:05Z"
   },
   "uptime": {
-    "generated_at": "2026-11-21T06:51:36Z",
+    "generated_at": "2026-11-21T12:39:38Z",
     "current": {
-      "at": "2026-11-21T06:51:36Z",
+      "at": "2026-11-21T12:39:38Z",
       "status": 200,
-      "ms": 197,
+      "ms": 177,
       "ok": true
     },
     "history": [
@@ -2255,6 +2255,12 @@
         "at": "2026-11-21T06:51:36Z",
         "status": 200,
         "ms": 197,
+        "ok": true
+      },
+      {
+        "at": "2026-11-21T12:39:38Z",
+        "status": 200,
+        "ms": 177,
         "ok": true
       }
     ]
@@ -2797,7 +2803,7 @@
           "status": 429,
           "ok": false,
           "level": "warn",
-          "ms": 640,
+          "ms": 376,
           "method": "HEAD",
           "error": null
         }
@@ -2885,14 +2891,14 @@
       "label": "Ketersediaan laman",
       "status": "pass",
       "category": "deploy",
-      "detail": "HTTP 200 · 197 ms",
+      "detail": "HTTP 200 · 177 ms",
       "items": []
     }
   ],
   "meta": {
     "tool": "perkim-monitor",
     "version": "1.0.0",
-    "static_generated_at": "2026-11-21T06:51:00Z",
+    "static_generated_at": "2026-11-21T12:38:58Z",
     "chrome": "google-chrome",
     "lighthouse_enabled": true,
     "site_root": "/home/runner/work/perkim-monitor/perkim-monitor/perkim-web"
